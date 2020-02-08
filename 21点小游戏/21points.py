@@ -54,4 +54,11 @@ def score_count(hand_pocker):
             continue
             
     if have_a == True
-        if 
+        if poker_score + 10 <= 21:
+            poker_score
+            = poker_score + 10
+    return poker_score
+
+'''
+判断输赢
+'''
